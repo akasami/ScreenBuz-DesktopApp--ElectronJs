@@ -1,5 +1,4 @@
 # ScreenRecordingApp
-
 ScreenBuz is a screen recording application build using Electron Js.
 
 ## Installation
